@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>uk.JohnCook.dotnet.DataCatalogue</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Authors>John Cook</Authors>
+    <Company>John Cook</Company>
+    <Version>0.0.1</Version>
+    <NeutralLanguage>en-GB</NeutralLanguage>
+    <PackageProjectUrl>https://github.com/watfordjc/Data-Catalogue</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>uk.JohnCook.dotnet.DataCatalogue</PackageId>
+    <Copyright>© John Cook 2023.</Copyright>
+    <RepositoryUrl>https://github.com/watfordjc/Data-Catalogue</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
